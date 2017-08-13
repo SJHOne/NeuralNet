@@ -1,0 +1,52 @@
+Network has [3] layers.												Network has [3] layers.													Network has [3] layers.
+        Layer [0]:                                                          Layer [0]:                                                              Layer [0]:
+        Neuron count = 2:                                                   Neuron count = 2:                                                       Neuron count = 2:
+                Neuron[0]:                                                          Neuron[0]:                                                              Neuron[0]:
+                        Number of inputs : 0 []                                             Number of inputs : 0 []                                                 Number of inputs : 0 []
+                        Number of outputs : 2                                               Number of outputs : 2                                                   Number of outputs : 2
+                        Activation function : Identity                                      Activation function : Identity                                          Activation function : Identity
+                        Internal Bias Value : 0.00000                                       Internal Bias Value : 0.00000                                           Internal Bias Value : 0.00000
+                        Net Input Value : 0.00000                                           Net Input Value : 0.00000                                               Net Input Value : 0.00000
+                        Output Value : 0.05000                                              Output Value : 0.05000                                                  Output Value : 0.05000
+                Neuron[1]:                                                          Neuron[1]:                                                              Neuron[1]:
+                        Number of inputs : 0 []                                             Number of inputs : 0 []                                                 Number of inputs : 0 []
+                        Number of outputs : 2                                               Number of outputs : 2                                                   Number of outputs : 2
+                        Activation function : Identity                                      Activation function : Identity                                          Activation function : Identity
+                        Internal Bias Value : 0.00000                                       Internal Bias Value : 0.00000                                           Internal Bias Value : 0.00000
+                        Net Input Value : 0.00000                                           Net Input Value : 0.00000                                               Net Input Value : 0.00000
+                        Output Value : 0.10000                                              Output Value : 0.10000                                                  Output Value : 0.10000
+        Layer [1]:                                                          Layer [1]:                                                              Layer [1]:
+        Neuron count = 2:                                                   Neuron count = 2:                                                       Neuron count = 2:
+                Neuron[0]:                                                          Neuron[0]:                                                              Neuron[0]:
+                        Number of inputs : 2 [0.15000 0.20000 ]                             Number of inputs : 2 [0.15000 0.20000 ]                                 Number of inputs : 2 [0.14978 0.19956 ]
+                        Number of outputs : 2                                               Number of outputs : 2                                                   Number of outputs : 2
+                        Activation function : Sigmoid                                       Activation function : Sigmoid                                           Activation function : Sigmoid
+                        Internal Bias Value : 0.35000                                       Internal Bias Value : 0.35000                                           Internal Bias Value : 0.35000
+                        Net Input Value : 0.00000                                           Net Input Value : 0.37750                                               Net Input Value : 0.37750
+                        Output Value : 0.00000                                              Output Value : 0.59327                                                  Output Value : 0.59327
+                Neuron[1]:                                                          Neuron[1]:                                                              Neuron[1]:
+                        Number of inputs : 2 [0.25000 0.30000 ]                             Number of inputs : 2 [0.25000 0.30000 ]                                 Number of inputs : 2 [0.24975 0.29950 ]
+                        Number of outputs : 2                                               Number of outputs : 2                                                   Number of outputs : 2
+                        Activation function : Sigmoid                                       Activation function : Sigmoid                                           Activation function : Sigmoid
+                        Internal Bias Value : 0.35000                                       Internal Bias Value : 0.35000                                           Internal Bias Value : 0.35000
+                        Net Input Value : 0.00000                                           Net Input Value : 0.39250                                               Net Input Value : 0.39250
+                        Output Value : 0.00000                                              Output Value : 0.59688                                                  Output Value : 0.59688
+        Layer [2]:                                                          Layer [2]:                                                              Layer [2]:
+        Neuron count = 2:                                                   Neuron count = 2:                                                       Neuron count = 2:
+                Neuron[0]:                                                          Neuron[0]:                                                              Neuron[0]:
+                        Number of inputs : 2 [0.40000 0.45000 ]                             Number of inputs : 2 [0.40000 0.45000 ]                                 Number of inputs : 2 [0.35892 0.40867 ]
+                        Number of outputs : 0                                               Number of outputs : 0                                                   Number of outputs : 0
+                        Activation function : Sigmoid                                       Activation function : Sigmoid                                           Activation function : Sigmoid
+                        Internal Bias Value : 0.60000                                       Internal Bias Value : 0.60000                                           Internal Bias Value : 0.60000
+                        Net Input Value : 0.00000                                           Net Input Value : 1.10591                                               Net Input Value : 1.10591
+                        Output Value : 0.00000                                              Output Value : 0.75137                                                  Output Value : 0.75137
+                        Target Value : 0.00000                                              Target Value : 0.00000                                                  Target Value : 0.01000
+                Neuron[1]:                                                          Neuron[1]:                                                              Neuron[1]:
+                        Number of inputs : 2 [0.50000 0.55000 ]                             Number of inputs : 2 [0.50000 0.55000 ]                                 Number of inputs : 2 [0.51130 0.56137 ]
+                        Number of outputs : 0                                               Number of outputs : 0                                                   Number of outputs : 0
+                        Activation function : Sigmoid                                       Activation function : Sigmoid                                           Activation function : Sigmoid
+                        Internal Bias Value : 0.60000                                       Internal Bias Value : 0.60000                                           Internal Bias Value : 0.60000
+                        Net Input Value : 0.00000                                           Net Input Value : 1.22492                                               Net Input Value : 1.22492
+                        Output Value : 0.00000                                              Output Value : 0.77293                                                  Output Value : 0.77293
+                        Target Value : 0.00000                                              Target Value : 0.00000                                                  Target Value : 0.99000
+---------------------------------------------                       ---------------------------------------------                           ---------------------------------------------
